@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ColorTester.xcscheme</key>
+		<key>ColorTestMan.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>615D1E791A2065AF002D19BB</key>
+		<key>615D1EAE1A206964002D19BB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>615D1E951A2065AF002D19BB</key>
+		<key>615D1ECA1A206964002D19BB</key>
 		<dict>
 			<key>primary</key>
 			<true/>

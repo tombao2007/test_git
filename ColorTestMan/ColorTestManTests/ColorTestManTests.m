@@ -1,6 +1,6 @@
 //
-//  ColorTesterTests.m
-//  ColorTesterTests
+//  ColorTestManTests.m
+//  ColorTestManTests
 //
 //  Created by Xiaotian bao on 14-11-22.
 //  Copyright (c) 2014年 TesterGroup. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface ColorTesterTests : XCTestCase
+@interface ColorTestManTests : XCTestCase
 
 @end
 
-@implementation ColorTesterTests
+@implementation ColorTestManTests
 
 - (void)setUp {
     [super setUp];

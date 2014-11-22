@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>BDB38AF3-D64F-4FF3-B035-E094720100C1</string>
+	<string>DE9B7772-B4BB-4E5D-8074-3BD4146B636E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>ColorTester</string>
+	<string>ColorTestMan</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>12265AFA864A42CD2661EBC4A67B9F53534387D4</key>
-		<string>git://github.com/tombao2007/test_git.git</string>
+		<string>https://github.com/tombao2007/test_git.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ColorTester/ColorTester.xcodeproj</string>
+	<string>ColorTestMan/ColorTestMan.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>12265AFA864A42CD2661EBC4A67B9F53534387D4</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>git://github.com/tombao2007/test_git.git</string>
+	<string>https://github.com/tombao2007/test_git.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
